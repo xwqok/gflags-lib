@@ -1,0 +1,5 @@
+/home/xwq/gflags/CMakeFiles/uninstall.dir
+/home/xwq/gflags/CMakeFiles/gflags_static.dir
+/home/xwq/gflags/CMakeFiles/gflags.dir
+/home/xwq/gflags/CMakeFiles/gflags_nothreads.dir
+/home/xwq/gflags/CMakeFiles/gflags_nothreads_static.dir
