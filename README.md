@@ -1,6 +1,6 @@
 This repository contains a C++ implementation of the Flags module.
 
-See INSTALL for (generic) installation instructions for C++: basically
+See INSTALL for (generic) installation instructions for C++:
 
 make && make install
 
